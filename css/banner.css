@@ -87,8 +87,6 @@
   display: flex;
   /* 垂直居中 */
   align-items: center;
-  /* 水平居中 */
-  justify-content: space-between;
 }
 
 .banner .indicator .item {
